@@ -1,5 +1,4 @@
 # Responsive Space Website
-## [Watch it on youtube](https://youtu.be/DTMbAbPZfU0)
 ### Responsive Space Website
 
 - Responsive Space Website Design Using HTML CSS & JavaScript
