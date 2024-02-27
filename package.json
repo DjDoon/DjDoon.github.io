@@ -2,7 +2,7 @@
   "name": "ptemplate",
   "version": "0.1.0",
   "description": "A personal website template",
-  "repository": "https://github.com/nethruster/ptemplate.git",
+  "repository": "https://github.com/DjDoon/DjDoon.github.io",
   "author": "Nethruster <support@nethruster.com>",
   "scripts": {
     "dev": "webpack-dev-server",
