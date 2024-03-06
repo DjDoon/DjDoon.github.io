@@ -41,13 +41,12 @@ google-analytics:
 disqus-shortname: 
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Jon-Erling Svendsen
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-about: Hello, I am a 18 year old drone pilot that operate in the area around Fredrikstad Norway. I am very interested in learning and love working with what i enjoy. I am currently a student at Glemmen High School and a trainee at Bærum Municipality 
+author-url: https://github.com/DjDoon
 
 # SASS
 sass:
