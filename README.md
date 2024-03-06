@@ -1,83 +1,53 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# WhatATheme
+**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
 
-Alternatively, for H1 and H2, an underline-ish style:
+#### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
 
-Alt-H1
-======
+![WhatATheme](assets/images/meta.jpg)
 
-Alt-H2
-------
+# Features :sparkles:
+* Free and Easy setup
+* No Coding Required
+* Compatible with [Github Pages](https://pages.github.com/)
+* Responsive and Blogging Ready
+* HTML Compressor using [Jekyll Compress HTML](https://jch.penibelst.de/)
+* Minified CSS using SaSS
+* CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
+* Supports Latest [Jekyll 4.x](https://jekyllrb.com/) and [Bundler](https://bundler.io/)
+* Stylesheet built using SaSS
+* Comments using Disqus
+* Analytics using Google Analytics
+* Instant Search using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/)
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+# Installation :books:
+### System Requirements
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Jekyll](https://jekyllrb.com/)
+> You can read **What is Jekyll** [**here**](https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it)
+### Up and Running
+* Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
+* Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
+* Inside the directory run `bundle install`
+* Host WhatATheme locally by running `bundle exec jekyll s`
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+> You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
-Combined emphasis with **asterisks and _underscores_**.
+[<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+---
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+### Content Credits :green_heart:
+* [Hero Image](https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) used as a background image in the very first section of Homepage.
+* [Author Image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png) used in the Author Section.
+* [Font Awesome](https://fontawesome.com/)
+* [Poppins Font](https://fonts.google.com/specimen/Poppins)
+* [Memphis Pattern](https://www.freepik.com/free-vector/memphis-pattern-background_4034913.htm#page=1&query=memphis%20pattern&position=23) used for some Social Media Images and the Favicon.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+---
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+### Credits :bulb:
+* [Sneha Omer](http://sassyecoder.github.io/)
+* [Harsh Trivedi](http://harsh98trivedi.github.io/)
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Inline `code` has `back-ticks around` it.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<<<<<<< HEAD
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-=======
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
->>>>>>> 255d93a876332c67aabbb713083113a257bedc6d
+### License
+The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)
