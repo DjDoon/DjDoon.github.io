@@ -1,11 +1,8 @@
 ---
-title: Refrences
+title: Coming Soon
 layout: page
 ---
 
-### Refrences
-* 1
-* 2
-* 3
-* 4
+### Coming Soon
+
 
